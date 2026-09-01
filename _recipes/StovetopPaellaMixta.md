@@ -10,7 +10,7 @@ tags:
 - rice
 
 ingredients:
-- "For the sofrito:"
+- "# For the sofrito"
 - "3 dried &ntilde;ora peppers or 4 ancho chilies (1 1/2 ounces total; 50g), optional; see note"
 - "1/4 cup (60ml) extra-virgin olive oil"
 - "3 medium cloves garlic, minced"
@@ -18,7 +18,7 @@ ingredients:
 - "One large (8-ounce/225g) red pepper, stemmed, seeded, and finely diced"
 - "Kosher salt"
 - "1 tablespoon (15ml) tomato paste"
-- "For the paella:"
+- "# For the paella"
 - "1 tablespoon (15ml) extra-virgin olive oil"
 - "Kosher salt"
 - "2 bone-in, skin-on chicken thighs (1 pound; 450g)"
@@ -31,12 +31,12 @@ ingredients:
 - "Lemon wedges, for serving"
 
 directions:
-- "_For the sofrito:_"
+- "# For the sofrito"
 - "Place dried peppers (if using) in a medium heatproof bowl and cover with boiling water (if not using, skip to Step 3). Place a weight or wet paper towel on top to help submerge the peppers. Let stand until peppers are fully softened, 30 minutes to 1 hour. If the peppers are very stubborn (as thick-skinned &ntilde;oras can be), you may need to tear a small hole in them to let water penetrate inside."
 - "Drain peppers and discard stems and seeds. Using a paring knife, carefully scrape the flesh from the skins. Discard skins."
 - "In a 3-quart saucepan, heat oil over medium-high heat until shimmering. Add garlic, onion, red pepper, and scraped rehydrated chili flesh (if using), season lightly with salt, and cook, stirring, until vegetables have released their liquid and are beginning to brown lightly on the bottom of the pan, about 6 minutes."
 - "Lower heat to medium-low and continue cooking, stirring and scraping frequently, until sofrito is sweet to the taste and a deep golden brown color, about 30 minutes longer. Stir in tomato paste and cook for 2 minutes longer. You should have about 1 cup. You can refrigerate the sofrito in an airtight container for up to 5 days. (Any extra sofrito not used in this recipe can be used as a flavor base for soups, sauces, braises, stews, and more.)"
-- "_For the paella:_"
+- "# For the paella"
 - "In a 10-inch paella pan or straight-sided stainless steel saut&eacute; pan, heat oil over medium-high heat until shimmering."
 - "Season chicken all over with salt, then add to pan and cook, turning, until deeply browned on both sides, about 8 minutes."
 - "Add sofrito, paprika, and saffron, and cook, stirring and scraping until well mixed and sizzling."
