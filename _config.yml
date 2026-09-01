@@ -1,13 +1,12 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
-description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+title: "Eddie's Recipes"
+email: edinel@solace.org
+description: Eddie's Recipe Database.  Based on Chowhound, the plain text recipe database for hackers
+baseurl: "https://recipes.solace.org"
 language: "en"
 lang_direction: "ltr"
-color: "#F53200"
-twitter_username: clarklab
-github_username:  clarklab
+color: "#007FFF"
+github_username:  edinel
 
 # Build settings
 markdown: kramdown

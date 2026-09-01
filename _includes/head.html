@@ -17,9 +17,9 @@
   <link rel="icon" type="image/png" sizes="512x512" href="{{ site.baseurl }}/icons/favicon-512x512.png">
   <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
   <link rel="shortcut icon" href="{{ site.baseurl }}/icons/favicon.ico">
-  <meta name="msapplication-TileColor" content="#F53200">
+  <meta name="msapplication-TileColor" content="#007FFF">
   <meta name="msapplication-config" content="{{ site.baseurl }}/icons/browserconfig.xml">
-  <meta name="theme-color" content="#F53200">
+  <meta name="theme-color" content="#007FFF">
 
 
   <!-- Facebook Meta Tags -->
@@ -28,14 +28,6 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:image" content="{% if page.title %}{{ site.baseurl }}/images/{{ page.image }}{% else %}/assets/social.png{% endif %}">
-
-  <!-- Twitter Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:domain" content="chowdown.io">
-  <meta property="twitter:url" content="{% if page.title %}{{ page.url | replace:'index.html','' | prepend: site.baseurl }}{% else %}{{ site.baseurl }}{% endif %}">
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.title %}{{ site.baseurl }}/images/{{ page.image }}{% else %}/assets/social.png{% endif %}">
 
 
   <style>
@@ -63,7 +55,7 @@
       theme: {
         extend: {
           colors: {
-            primary: '#F53200', // Add your primary color
+            primary: '#007FFF', // Add your primary color
           },
           boxShadow: {
             '3xl': '0 0px 60px -15px rgba(0, 0, 0, 0.5)',
@@ -94,14 +86,6 @@
   }
   </script>
   
-  <!-- Twitter Cards -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@chowdownapp">
-  <meta name="twitter:creator" content="@clarklab">
-  {% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}<meta name="twitter:title" content="Chowdown">{% endif %}
-  {% if page.url %}<meta name="twitter:url" content="{{ site.baseurl }}{{ page.url }}">{% endif %}
-  {% if page.directions %}<meta name="twitter:description" content="{{ page.content | strip_html }}">{% else %}<meta name="twitter:description" content="Chowdown">{% endif %}
-  {% if page.image %}<meta name="twitter:image:src" content="{{site.baseurl}}/images/{{ page.image }}">{% else %}<meta name="twitter:image:src" content="{{site.baseurl}}/images/crockpot-buffalo-chicken.jpg">{% endif %}
 
 </head>
 
