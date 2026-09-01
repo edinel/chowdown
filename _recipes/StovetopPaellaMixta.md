@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Stovetop Paella Mixta for Two With Chicken and Shrimp"
-image: default.jpg
+image: paella.jpg
 tags:
 - mains
 - spanish
